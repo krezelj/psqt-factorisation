@@ -1,1 +1,11 @@
-*.old
+# files
+*.txt
+*.pyc
+nb_testing.ipynb
+
+
+# directories
+.old
+results
+mfbc
+fen
